@@ -2,7 +2,7 @@
 
 ## I'm a begineer tester
 
-### Languages and Tools
+### Skills
 ![will be soon](https://img.shields.io/badge/-will_be_soon-090909??style=for-the-badge)
 
 Follow Me
